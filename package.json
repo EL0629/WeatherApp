@@ -6,7 +6,8 @@
   "author": "EL0629 <borinaga.angelito0629@gmail.com>",
   "private": true,
   "scripts": {
-    "test": "echo \"No test specified\" && exit 0"
+    "test": "echo \"No test specified\" && exit 0",
+    "icons": "icongenie generate -i weather-icon.png --theme-color 136a8a --skip-trim"
   },
   "dependencies": {
     "@quasar/extras": "^1.9.17",

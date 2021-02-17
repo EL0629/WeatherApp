@@ -29,4 +29,5 @@ See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
 ```bash
 uigradients.com
 pixabay.com
+iconfinder.com
 ```
